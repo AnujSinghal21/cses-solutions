@@ -9,3 +9,4 @@ rep,general/macros.cpp,CPM_MACROS
 yeah,general/macros.cpp,CPM_MACROS
 nope,general/macros.cpp,CPM_MACROS
 print,general/io.cpp,CPM_IO
+bit_string,bitwise/bstring.cpp,CPM_BITSTRING
