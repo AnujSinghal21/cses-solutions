@@ -6,6 +6,8 @@ using namespace std;
 
 #include "./inc/bitwise.hpp"
 
+#include "./inc/algorithms.hpp"
+
 #include "./inc/pbds.hpp"
 
 #endif
